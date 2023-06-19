@@ -1,0 +1,22 @@
+accelerate>=0.16.0,<1
+transformers @ git+https://github.com/huggingface/transformers@cae78c46d
+torch
+sentencepiece
+pydantic==1.10.8
+sentence_transformers
+llama-index
+unstructured
+pdf2image
+faiss-gpu
+tiktoken
+einops
+fuzzywuzzy
+Levenshtein
+bitsandbytes
+datasets
+loralib
+peft @ git+https://github.com/huggingface/peft.git
+langchain==0.0.164
+chromadb==0.3.22
+swifter
+hugchat
