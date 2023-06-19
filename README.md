@@ -32,6 +32,7 @@ The following instructions will get you a copy of the project up and running on 
 - Clone the repo
 ```sh
 git clone https://github.com/sumitsahaykoantek/koantekDatabricksHackathon.git
+```
 
 Install necessary libraries
 ```sh
